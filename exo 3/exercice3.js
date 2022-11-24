@@ -4,6 +4,14 @@ function txtReturn() {
     return "monTexte";
 }
 
+function txtInsert() {
+    return "j'aime le javascript";
+}
+
+function backgroundSet() {
+    return "magenta";
+}
+
 
 
 
